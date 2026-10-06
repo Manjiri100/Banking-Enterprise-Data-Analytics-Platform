@@ -1,0 +1,13 @@
+version: 2
+sources:
+  - name: banking_raw
+    schema: raw
+    tables:
+      - name: customers
+      - name: accounts
+      - name: products
+      - name: branches
+      - name: transactions
+      - name: payments
+      - name: fraud_alerts
+      - name: complaints

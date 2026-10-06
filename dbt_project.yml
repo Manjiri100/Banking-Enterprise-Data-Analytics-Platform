@@ -1,0 +1,14 @@
+name: banking_enterprise
+version: '1.0.0'
+config-version: 2
+profile: banking_enterprise
+model-paths: ['models']
+test-paths: ['tests']
+models:
+  banking_enterprise:
+    staging:
+      +materialized: view
+    intermediate:
+      +materialized: table
+    marts:
+      +materialized: table

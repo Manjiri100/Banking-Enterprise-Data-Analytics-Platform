@@ -1,0 +1,28 @@
+-- Core governed measures for the Power BI semantic model.
+
+Transaction Volume =
+COUNTROWS ( FactTransactions )
+
+Completed Transaction Value =
+CALCULATE (
+    SUM ( FactTransactions[amount] ),
+    FactTransactions[status] = "completed"
+)
+
+Payment Failure Rate =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( FactPayments ), FactPayments[payment_status] = "failed" ),
+    COUNTROWS ( FactPayments )
+)
+
+High Risk Alerts =
+CALCULATE (
+    COUNTROWS ( FactFraudAlerts ),
+    FactFraudAlerts[risk_score] >= 75
+)
+
+Complaint Backlog =
+CALCULATE (
+    COUNTROWS ( FactComplaints ),
+    FactComplaints[status] <> "resolved"
+)
