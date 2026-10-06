@@ -1,0 +1,9 @@
+product_id,product_name,product_type,segment,active_flag
+P001,Current Account,deposit,mass,1
+P002,Savings Account,deposit,mass,1
+P003,Premium Current,deposit,affluent,1
+P004,Student Account,deposit,mass,1
+P005,Credit Card,card,mass,1
+P006,Personal Loan,lending,mass,1
+P007,Mortgage,lending,affluent,1
+P008,Business Account,business,business,1

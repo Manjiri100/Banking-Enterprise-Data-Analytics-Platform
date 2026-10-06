@@ -1,0 +1,101 @@
+branch_id,region,branch_type
+BR0001,London,branch
+BR0002,Scotland,branch
+BR0003,South West,hub
+BR0004,North East,hub
+BR0005,North East,hub
+BR0006,Scotland,hub
+BR0007,London,branch
+BR0008,South West,branch
+BR0009,Midlands,branch
+BR0010,London,branch
+BR0011,South East,hub
+BR0012,Wales,branch
+BR0013,South West,branch
+BR0014,Scotland,hub
+BR0015,South West,branch
+BR0016,Scotland,branch
+BR0017,South East,branch
+BR0018,Midlands,branch
+BR0019,Scotland,branch
+BR0020,North East,branch
+BR0021,South East,branch
+BR0022,North West,branch
+BR0023,Midlands,digital
+BR0024,Wales,branch
+BR0025,Scotland,branch
+BR0026,South West,branch
+BR0027,North East,branch
+BR0028,Scotland,hub
+BR0029,South East,branch
+BR0030,North East,hub
+BR0031,North East,hub
+BR0032,Midlands,branch
+BR0033,London,digital
+BR0034,South East,branch
+BR0035,Wales,branch
+BR0036,London,branch
+BR0037,Scotland,hub
+BR0038,Scotland,branch
+BR0039,North West,branch
+BR0040,South West,branch
+BR0041,Midlands,branch
+BR0042,Scotland,hub
+BR0043,South West,branch
+BR0044,North West,branch
+BR0045,London,branch
+BR0046,Wales,branch
+BR0047,North East,branch
+BR0048,Wales,branch
+BR0049,South West,branch
+BR0050,Scotland,digital
+BR0051,Scotland,digital
+BR0052,Midlands,hub
+BR0053,North West,branch
+BR0054,North East,digital
+BR0055,North East,hub
+BR0056,London,hub
+BR0057,South East,branch
+BR0058,Midlands,branch
+BR0059,South West,branch
+BR0060,South West,digital
+BR0061,Wales,branch
+BR0062,South West,branch
+BR0063,North West,branch
+BR0064,Wales,branch
+BR0065,North East,branch
+BR0066,North West,digital
+BR0067,Wales,hub
+BR0068,North West,hub
+BR0069,London,branch
+BR0070,North East,branch
+BR0071,Scotland,branch
+BR0072,Midlands,branch
+BR0073,North East,branch
+BR0074,Midlands,branch
+BR0075,South West,branch
+BR0076,North East,branch
+BR0077,North West,branch
+BR0078,Midlands,branch
+BR0079,South East,branch
+BR0080,South West,branch
+BR0081,Wales,branch
+BR0082,North East,digital
+BR0083,Midlands,branch
+BR0084,Scotland,branch
+BR0085,South West,branch
+BR0086,South West,branch
+BR0087,London,digital
+BR0088,North West,branch
+BR0089,Scotland,hub
+BR0090,Scotland,branch
+BR0091,North East,branch
+BR0092,Scotland,branch
+BR0093,Scotland,digital
+BR0094,North East,branch
+BR0095,Wales,branch
+BR0096,North West,branch
+BR0097,Midlands,branch
+BR0098,South West,branch
+BR0099,South West,branch
+BR0100,Midlands,branch
